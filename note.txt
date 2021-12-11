@@ -1,0 +1,12 @@
+# testim run ./tests/test-search.js
+# npm i -g @testim/testim-cli && testim connect
+# npm run dev-test
+# npm test
+
+_ Running 10 test at a time:
+# npm run dev-test --parallel 10
+# testim run tests/*.js --headless --parallel 5
+
+_ Running tests on a Selenium grid:
+# npm run ci
+# ( this not mean run tests with Selenium - only that Selenium Grid is the method used in order to control starting and stopping the browser and the test.)

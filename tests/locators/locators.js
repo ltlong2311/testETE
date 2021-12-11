@@ -1,0 +1,16 @@
+module.exports = {
+  "Bn_tm_g...": require('./locator.SktpoJEh6ujF6Um5.json'),
+  "[id='skw']": require('./locator.npS0p68iBPedCvOo.json'),
+  "Rt_tic,_Thegioididong.com_khng_tm_t": require('./locator.zE3vkOXRHVSZGwlB.json'),
+  "191_Laptop": require('./locator.znJ1KpcgdnDeltBN.json'),
+  "Tm_thy_4.372_kt_qu._Lc_theo:": require('./locator.MlBFPZ3cEabPc34A.json'),
+  "Samsung_Galaxy_Z_Flip3_5G_256GB": require('./locator.I07L9qQzAgFEpndJ.json'),
+  ".header_.icon-search": require('./locator.6pp9oIzL6LNYOaAD.json'),
+  "_tm_c_kt_qu_chnh_xc_hn,_bn_vui_lng:": require('./locator.AqYPOCIudNrxxICI.json'),
+  "Tm_thy_1_kt_qu._Lc_theo:": require('./locator.MlBFPZ3cEabPc34A.json'),
+  "Xem_gi,_khuyn_mi_ti_P.Cng_V,_Ba_nh,": require('./locator.kriFbigz7bTugN4v.json'),
+  "Gp_0%": require('./locator.tVoIzXIyT1OWvs8D.json'),
+  "[data-href='-tra-gop-0-phan-tram']_": require('./locator.yVKL5hmg7siYyxFn.json'),
+  "Tra_gop_0%": require('./locator.k6UrQaTMmUZ6NYOk.json'),
+  "[data-index='2']_.lb-tragop": require('./locator.WwCI8890A4QKqIXw.json'),
+};
